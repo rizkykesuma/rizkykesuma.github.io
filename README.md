@@ -4,6 +4,10 @@ Welcome to my personal portfolio! I’m a freshgradute in Bachelor of Statistics
 ## About Me
 I have experience in Regression, Classification, Clustering
 
+## My Projects
+1. [DSF Study Case](https://github.com/rizkykesuma/portfolio)
+2. [Forecasting With Machine Learning](https://github.com/rizkykesuma/Hybrid-Model-TSR-NN)
+
 ## Skills
 - R and Python
 - MS Office
